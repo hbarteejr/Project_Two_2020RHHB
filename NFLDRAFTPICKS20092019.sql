@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS round;
 
 
 CREATE TABLE round (
-  draft year character varying(45) NOT NULL,
+  draft_year character varying(45) NOT NULL,
   round character varying(45) NOT NULL,
   pick character varying (45) NOT NULL, 
   player character varying(45) NOT NULL,

@@ -1,0 +1,352 @@
+Draft year,Round,Pick,Player,Position,College,Conference
+2009,1,1,Matthew Stafford,QB,Georgia,SEC
+2009,1,2,Jason Smith,OT,Baylor,Big 12
+2009,1,3,Tyson Jackson,DE,LSU,SEC
+2009,1,4,Aaron Curry,LB,Wake Forest,ACC
+2009,1,5,Mark Sanchez,QB,USC,Pac-10
+2009,1,6,Andre Smith,OT,Alabama,SEC
+2009,1,7,Darrius Heyward-Bey,WR,Maryland,ACC
+2009,1,8,Eugene Monroe,OT,Virginia,ACC
+2009,1,9,B. J. Raji,DT,Boston College,ACC
+2009,1,10,Michael Crabtree,WR,Texas Tech,Big 12
+2009,1,11,Aaron Maybin,DE,Penn State,Big Ten
+2009,1,12,Knowshon Moreno,RB,Georgia,SEC
+2009,1,13,Brian Orakpo,DE,Texas,Big 12
+2009,1,14,Malcolm Jenkins,CB,Ohio State,Big Ten
+2009,1,15,Brian Cushing,LB,USC,Pac-10
+2009,1,16,Larry English,DE,NIU,MAC
+2009,1,17,Josh Freeman,QB,Kansas State,Big 12
+2009,1,18,Robert Ayers,DE,Tennessee,SEC
+2009,1,19,Jeremy Maclin,WR,Missouri,Big 12
+2009,1,20,Brandon Pettigrew,TE,Oklahoma State,Big 12
+2009,1,21,Alex Mack,C,California,Pac-10
+2009,1,22,Percy Harvin,WR,Florida,SEC
+2009,1,23,Michael Oher,OT,Ole Miss,SEC
+2009,1,24,Peria Jerry,DT,Ole Miss,SEC
+2009,1,25,Vontae Davis,CB,Illinois,Big Ten
+2009,1,26,Clay Matthews,LB,USC,Pac-10
+2009,1,27,Donald Brown,RB,Connecticut,Big East
+2009,1,28,Eric Wood,C,Louisville,Big East
+2009,1,29,Hakeem Nicks,WR,North Carolina,ACC
+2009,1,30,Kenny Britt,WR,Rutgers,Big East
+2009,1,31,Beanie Wells,RB,Ohio State,Big Ten
+2009,1,32,Ziggy Hood,DT,Missouri,Big 12
+2010,1,1,Sam Bradford ,QB,Oklahoma,Big 12
+2010,1,2,Ndamukong Suh ,DT,Nebraska,Big 12
+2010,1,3,Gerald McCoy ,DT,Oklahoma,Big 12
+2010,1,4,Trent Williams ,OT,Oklahoma,Big 12
+2010,1,5,Eric Berry ,S,Tennessee,SEC
+2010,1,6,Russell Okung ,OT,Oklahoma State,Big 12
+2010,1,7,Joe Haden ,CB,Florida,SEC
+2010,1,8,Rolando McClain ,LB,Alabama,SEC
+2010,1,9,C. J. Spiller ,RB,Clemson,ACC
+2010,1,10,Tyson Alualu ,DT,California,Pac-10
+2010,1,11,Anthony Davis ,OT,Rutgers,Big East
+2010,1,12,Ryan Mathews ,RB,Fresno State,WAC
+2010,1,13,Brandon Graham ,DE,Michigan,Big Ten
+2010,1,14,Earl Thomas ,S,Texas,Big 12
+2010,1,15,Jason Pierre-Paul ,DE,South Florida,Big East
+2010,1,16,Derrick Morgan ,DE,Georgia Tech,ACC
+2010,1,17,Mike Iupati ,G,Idaho,WAC
+2010,1,18,Maurkice Pouncey ,C,Florida,SEC
+2010,1,19,Sean Weatherspoon ,LB,Missouri,Big 12
+2010,1,20,Kareem Jackson ,CB,Alabama,SEC
+2010,1,21,Jermaine Gresham ,TE,Oklahoma,Big 12
+2010,1,22,Demaryius Thomas ,WR,Georgia Tech,ACC
+2010,1,23,Bryan Bulaga ,OT,Iowa,Big Ten
+2010,1,24,Dez Bryant ,WR,Oklahoma State,Big 12
+2010,1,25,Tim Tebow ,QB,Florida,SEC
+2010,1,26,Dan Williams ,DT,Tennessee,SEC
+2010,1,27,Devin McCourty ,CB,Rutgers,Big East
+2010,1,28,Jared Odrick ,DT,Penn State,Big Ten
+2010,1,29,Kyle Wilson ,CB,Boise State,WAC
+2010,1,30,Jahvid Best ,RB,California,Pac-10
+2010,1,31,Jerry Hughes ,DE,TCU,MWC
+2010,1,32,Patrick Robinson ,CB,Florida State,ACC
+2011,1,1,Cam Newton,QB,Auburn,SEC
+2011,1,2,Von Miller,LB,Texas A&M,Big 12
+2011,1,3,Marcell Dareus,DT,Alabama,SEC
+2011,1,4,A. J. Green,WR,Georgia,SEC
+2011,1,5,Patrick Peterson,CB,LSU,SEC
+2011,1,6,Julio Jones,WR,Alabama,SEC
+2011,1,7,Aldon Smith,LB,Missouri,Big 12
+2011,1,8,Jake Locker,QB,Washington,Pac-10
+2011,1,9,Tyron Smith,OT,USC,Pac-10
+2011,1,10,Blaine Gabbert,QB,Missouri,Big 12
+2011,1,11,J. J. Watt,DE,Wisconsin,Big Ten
+2011,1,12,Christian Ponder,QB,Florida State,ACC
+2011,1,13,Nick Fairley,DT,Auburn,SEC
+2011,1,14,Robert Quinn,DE,North Carolina,ACC
+2011,1,15,Mike Pouncey,C,Florida,SEC
+2011,1,16,Ryan Kerrigan,DE,Purdue,Big Ten
+2011,1,17,Nate Solder,OT,Colorado,Big 12
+2011,1,18,Corey Liuget,DT,Illinois,Big Ten
+2011,1,19,Prince Amukamara,CB,Nebraska,Big 12
+2011,1,20,Adrian Clayborn,DE,Iowa,Big Ten
+2011,1,21,Phil Taylor Sr.,DT,Baylor,Big 12
+2011,1,22,Anthony Castonzo,OT,Boston College,ACC
+2011,1,23,Danny Watkins,G,Baylor,Big 12
+2011,1,24,Cameron Jordan,DE,California,Pac-10
+2011,1,25,James Carpenter,OT,Alabama,SEC
+2011,1,26,Jonathan Baldwin,WR,Pittsburgh,Big East
+2011,1,27,Jimmy Smith,CB,Colorado,Big 12
+2011,1,28,Mark Ingram Jr.,RB,Alabama,SEC
+2011,1,29,Gabe Carimi,OT,Wisconsin,Big Ten
+2011,1,30,Muhammad Wilkerson,DE,Temple,MAC
+2011,1,31,Cameron Heyward,DE,Ohio State,Big Ten
+2011,1,32,Derek Sherrod,OT,Mississippi State,SEC
+2012,1,1,Andrew Luck ,QB,Stanford,Pac-12
+2012,1,2,Robert Griffin III ,QB,Baylor,Big 12
+2012,1,3,Trent Richardson ,RB,Alabama,SEC
+2012,1,4,Matt Kalil ,OT,USC,Pac-12
+2012,1,5,Justin Blackmon ,WR,Oklahoma State,Big 12
+2012,1,6,Morris Claiborne ,CB,LSU,SEC
+2012,1,7,Mark Barron ,S,Alabama,SEC
+2012,1,8,Ryan Tannehill ,QB,Texas A&M,Big 12
+2012,1,9,Luke Kuechly ,LB,Boston College,ACC
+2012,1,10,Stephon Gilmore ,CB,South Carolina,SEC
+2012,1,11,Dontari Poe ,DT,Memphis,C-USA
+2012,1,12,Fletcher Cox ,DT,Mississippi State,SEC
+2012,1,13,Michael Floyd ,WR,Notre Dame,Ind. (FBS)
+2012,1,14,Michael Brockers ,DT,LSU,SEC
+2012,1,15,Bruce Irvin ,DE,West Virginia,Big East
+2012,1,16,Quinton Coples ,DE,North Carolina,ACC
+2012,1,17,Dre Kirkpatrick ,CB,Alabama,SEC
+2012,1,18,Melvin Ingram ,LB,South Carolina,SEC
+2012,1,19,Shea McClellin ,DE,Boise State,MW
+2012,1,20,Kendall Wright ,WR,Baylor,Big 12
+2012,1,21,Chandler Jones ,DE,Syracuse,Big East
+2012,1,22,Brandon Weeden ,QB,Oklahoma State,Big 12
+2012,1,23,Riley Reiff ,OT,Iowa,Big Ten
+2012,1,24,David DeCastro ,G,Stanford,Pac-12
+2012,1,25,Dont'a Hightower ,LB,Alabama,SEC
+2012,1,26,Whitney Mercilus ,DE,Illinois,Big Ten
+2012,1,27,Kevin Zeitler ,G,Wisconsin,Big Ten
+2012,1,28,Nick Perry ,LB,USC,Pac-12
+2012,1,29,Harrison Smith ,S,Notre Dame,Ind. (FBS)
+2012,1,30,A. J. Jenkins ,WR,Illinois,Big Ten
+2012,1,31,Doug Martin ,RB,Boise State,MW
+2012,1,32,David Wilson ,RB,Virginia Tech,ACC
+2013,1,1,Eric Fisher,OT,Central Michigan,MAC
+2013,1,2,Luke Joeckel,OT,Texas A&M,SEC
+2013,1,3,Dion Jordan,DE,Oregon,Pac-12
+2013,1,4,Lane Johnson,OT,Oklahoma,Big 12
+2013,1,5,Ezekiel Ansah,DE,BYU,Ind. (FBS)
+2013,1,6,Barkevious Mingo,DE,LSU,SEC
+2013,1,7,Jonathan Cooper,G,North Carolina,ACC
+2013,1,8,Tavon Austin,WR,West Virginia,Big 12
+2013,1,9,Dee Milliner,CB,Alabama,SEC
+2013,1,10,Chance Warmack,G,Alabama,SEC
+2013,1,11,D. J. Fluker,OT,Alabama,SEC
+2013,1,12,D. J. Hayden,CB,Houston,C-USA
+2013,1,13,Sheldon Richardson,DT,Missouri,SEC
+2013,1,14,Star Lotulelei,DT,Utah,Pac-12
+2013,1,15,Kenny Vaccaro,S,Texas,Big 12
+2013,1,16,EJ Manuel,QB,Florida State,ACC
+2013,1,17,Jarvis Jones,LB,Georgia,SEC
+2013,1,18,Eric Reid,S,LSU,SEC
+2013,1,19,Justin Pugh,OT,Syracuse,Big East
+2013,1,20,Kyle Long,G,Oregon,Pac-12
+2013,1,21,Tyler Eifert,TE,Notre Dame,Ind. (FBS)
+2013,1,22,Desmond Trufant,CB,Washington,Pac-12
+2013,1,23,Sharrif Floyd,DT,Florida,SEC
+2013,1,24,BjÃ¶rn Werner,DE,Florida State,ACC
+2013,1,25,Xavier Rhodes,CB,Florida State,ACC
+2013,1,26,Datone Jones,DE,UCLA,Pac-12
+2013,1,27,DeAndre Hopkins,WR,Clemson,ACC
+2013,1,28,Sylvester Williams,DT,North Carolina,ACC
+2013,1,29,Cordarrelle Patterson,WR,Tennessee,SEC
+2013,1,30,Alec Ogletree,LB,Georgia,SEC
+2013,1,31,Travis Frederick,C,Wisconsin,Big Ten
+2013,1,32,Matt Elam,S,Florida,SEC
+2014,1,1,Jadeveon Clowney ,DE,South Carolina,SEC
+2014,1,2,Greg Robinson ,OT,Auburn,SEC
+2014,1,3,Blake Bortles ,QB,UCF,The American
+2014,1,4,Sammy Watkins ,WR,Clemson,ACC
+2014,1,5,Khalil Mack ,LB,Buffalo,MAC
+2014,1,6,Jake Matthews ,OT,Texas A&M,SEC
+2014,1,7,Mike Evans ,WR,Texas A&M,SEC
+2014,1,8,Justin Gilbert ,CB,Oklahoma State,Big 12
+2014,1,9,Anthony Barr ,LB,UCLA,Pac-12
+2014,1,10,Eric Ebron ,TE,North Carolina,ACC
+2014,1,11,Taylor Lewan ,OT,Michigan,Big Ten
+2014,1,12,Odell Beckham ,WR,LSU,SEC
+2014,1,13,Aaron Donald ,DT,Pittsburgh,ACC
+2014,1,14,Kyle Fuller ,CB,Virginia Tech,ACC
+2014,1,15,Ryan Shazier ,LB,Ohio State,Big Ten
+2014,1,16,Zack Martin ,G,Notre Dame,Ind. (FBS)
+2014,1,17,C. J. Mosley ,LB,Alabama,SEC
+2014,1,18,Calvin Pryor ,S,Louisville,The American
+2014,1,19,Ja'Wuan James ,OT,Tennessee,SEC
+2014,1,20,Brandin Cooks ,WR,Oregon State,Pac-12
+2014,1,21,Ha Ha Clinton-Dix ,S,Alabama,SEC
+2014,1,22,Johnny Manziel ,QB,Texas A&M,SEC
+2014,1,23,Dee Ford ,DE,Auburn,SEC
+2014,1,24,Darqueze Dennard ,CB,Michigan State,Big Ten
+2014,1,25,Jason Verrett ,CB,TCU,Big 12
+2014,1,26,Marcus Smith ,LB,Louisville,The American
+2014,1,27,Deone Bucannon ,S,Washington State,Pac-12
+2014,1,28,Kelvin Benjamin ,WR,Florida State,ACC
+2014,1,29,Dominique Easley ,DT,Florida,SEC
+2014,1,30,Jimmie Ward ,S,NIU,MAC
+2014,1,31,Bradley Roby ,CB,Ohio State,Big Ten
+2014,1,32,Teddy Bridgewater ,QB,Louisville,The American
+2015,1,1,Jameis Winston ,QB,Florida State,ACC
+2015,1,2,Marcus Mariota ,QB,Oregon,Pac-12
+2015,1,3,Dante Fowler ,DE,Florida,SEC
+2015,1,4,Amari Cooper ,WR,Alabama,SEC
+2015,1,5,Brandon Scherff ,OT,Iowa,Big Ten
+2015,1,6,Leonard Williams ,DE,USC,Pac-12
+2015,1,7,Kevin White ,WR,West Virginia,Big 12
+2015,1,8,Vic Beasley ,DE,Clemson,ACC
+2015,1,9,Ereck Flowers ,OT,Miami (FL),ACC
+2015,1,10,Todd Gurley ,RB,Georgia,SEC
+2015,1,11,Trae Waynes ,CB,Michigan State,Big Ten
+2015,1,12,Danny Shelton ,DT,Washington,Pac-12
+2015,1,13,Andrus Peat ,OT,Stanford,Pac-12
+2015,1,14,DeVante Parker ,WR,Louisville,ACC
+2015,1,15,Melvin Gordon ,RB,Wisconsin,Big Ten
+2015,1,16,Kevin Johnson ,CB,Wake Forest,ACC
+2015,1,17,Arik Armstead ,DE,Oregon,Pac-12
+2015,1,18,Marcus Peters ,CB,Washington,Pac-12
+2015,1,19,Cameron Erving ,C,Florida State,ACC
+2015,1,20,Nelson Agholor ,WR,USC,Pac-12
+2015,1,21,Cedric Ogbuehi ,OT,Texas A&M,SEC
+2015,1,22,Bud Dupree ,LB,Kentucky,SEC
+2015,1,23,Shane Ray ,DE,Missouri,SEC
+2015,1,24,D. J. Humphries ,OT,Florida,SEC
+2015,1,25,Shaq Thompson ,LB,Washington,Pac-12
+2015,1,26,Breshad Perriman ,WR,UCF,The American
+2015,1,27,Byron Jones ,CB,Connecticut,The American
+2015,1,28,Laken Tomlinson ,G,Duke,ACC
+2015,1,29,Phillip Dorsett ,WR,Miami (FL),ACC
+2015,1,30,Damarious Randall ,S,Arizona State,Pac-12
+2015,1,31,Stephone Anthony ,LB,Clemson,ACC
+2015,1,32,Malcom Brown ,DT,Texas,Big 12
+2016,1,1,Jared Goff ,QB,California,Pac-12
+2016,1,2,Carson Wentz ,QB,North Dakota State,MVFC
+2016,1,3,Joey Bosa ,DE,Ohio State,Big Ten
+2016,1,4,Ezekiel Elliott ,RB,Ohio State,Big Ten
+2016,1,5,Jalen Ramsey ,CB,Florida State,ACC
+2016,1,6,Ronnie Stanley ,OT,Notre Dame,Ind. (FBS)
+2016,1,7,DeForest Buckner ,DE,Oregon,Pac-12
+2016,1,8,Jack Conklin ,OT,Michigan State,Big Ten
+2016,1,9,Leonard Floyd ,LB,Georgia,SEC
+2016,1,10,Eli Apple ,CB,Ohio State,Big Ten
+2016,1,11,Vernon Hargreaves ,CB,Florida,SEC
+2016,1,12,Sheldon Rankins ,DT,Louisville,ACC
+2016,1,13,Laremy Tunsil ,OT,Ole Miss,SEC
+2016,1,14,Karl Joseph ,S,West Virginia,Big 12
+2016,1,15,Corey Coleman ,WR,Baylor,Big 12
+2016,1,16,Taylor Decker ,OT,Ohio State,Big Ten
+2016,1,17,Keanu Neal ,S,Florida,SEC
+2016,1,18,Ryan Kelly ,C,Alabama,SEC
+2016,1,19,Shaq Lawson ,DE,Clemson,ACC
+2016,1,20,Darron Lee ,LB,Ohio State,Big Ten
+2016,1,21,Will Fuller ,WR,Notre Dame,Ind. (FBS)
+2016,1,22,Josh Doctson ,WR,TCU,Big 12
+2016,1,23,Laquon Treadwell ,WR,Ole Miss,SEC
+2016,1,24,William Jackson ,CB,Houston,The American
+2016,1,25,Artie Burns ,CB,Miami (FL),ACC
+2016,1,26,Paxton Lynch ,QB,Memphis,The American
+2016,1,27,Kenny Clark ,DT,UCLA,Pac-12
+2016,1,28,Joshua Garnett ,G,Stanford,Pac-12
+2016,1,29,Robert Nkemdiche ,DT,Ole Miss,SEC
+2016,1,30,Vernon Butler ,DT,Louisiana Tech,C-USA
+2016,1,31,Germain Ifedi ,OT,Texas A&M,SEC
+2017,1,1,Myles Garrett ,DE,Texas A&M,SEC
+2017,1,2,Mitchell Trubisky ,QB,North Carolina,ACC
+2017,1,3,Solomon Thomas ,DE,Stanford,Pac-12
+2017,1,4,Leonard Fournette ,RB,LSU,SEC
+2017,1,5,Corey Davis ,WR,Western Michigan,MAC
+2017,1,6,Jamal Adams ,S,LSU,SEC
+2017,1,7,Mike Williams ,WR,Clemson,ACC
+2017,1,8,Christian McCaffrey ,RB,Stanford,Pac-12
+2017,1,9,John Ross ,WR,Washington,Pac-12
+2017,1,10,Patrick Mahomes ,QB,Texas Tech,Big 12
+2017,1,11,Marshon Lattimore ,CB,Ohio State,Big Ten
+2017,1,12,Deshaun Watson ,QB,Clemson,ACC
+2017,1,13,Haason Reddick ,LB,Temple,The American
+2017,1,14,Derek Barnett ,DE,Tennessee,SEC
+2017,1,15,Malik Hooker ,S,Ohio State,Big Ten
+2017,1,16,Marlon Humphrey ,CB,Alabama,SEC
+2017,1,17,Jonathan Allen ,DE,Alabama,SEC
+2017,1,18,Adoree' Jackson ,CB,USC,Pac-12
+2017,1,19,O. J. Howard ,TE,Alabama,SEC
+2017,1,20,Garett Bolles ,OT,Utah,Pac-12
+2017,1,21,Jarrad Davis ,LB,Florida,SEC
+2017,1,22,Charles Harris ,DE,Missouri,SEC
+2017,1,23,Evan Engram ,TE,Ole Miss,SEC
+2017,1,24,Gareon Conley ,CB,Ohio State,Big Ten
+2017,1,25,Jabrill Peppers ,S,Michigan,Big Ten
+2017,1,26,Takkarist McKinley ,DE,UCLA,Pac-12
+2017,1,27,Tre'Davious White ,CB,LSU,SEC
+2017,1,28,Taco Charlton ,DE,Michigan,Big Ten
+2017,1,29,David Njoku ,TE,Miami (FL),ACC
+2017,1,30,T. J. Watt ,LB,Wisconsin,Big Ten
+2017,1,31,Reuben Foster ,LB,Alabama,SEC
+2017,1,32,Ryan Ramczyk ,OT,Wisconsin,Big Ten
+2018,1,1,Baker Mayfield ,QB,Oklahoma,Big 12
+2018,1,2,Saquon Barkley ,RB,Penn State,Big Ten
+2018,1,3,Sam Darnold ,QB,USC,Pac-12
+2018,1,4,Denzel Ward ,CB,Ohio State,Big Ten
+2018,1,5,Bradley Chubb ,LB,NC State,ACC
+2018,1,6,Quenton Nelson ,G,Notre Dame,Ind. (FBS)
+2018,1,7,Josh Allen ,QB,Wyoming,MW
+2018,1,8,Roquan Smith ,LB,Georgia,SEC
+2018,1,9,Mike McGlinchey ,OT,Notre Dame,Ind. (FBS)
+2018,1,10,Josh Rosen ,QB,UCLA,Pac-12
+2018,1,11,Minkah Fitzpatrick ,S,Alabama,SEC
+2018,1,12,Vita Vea ,NT,Washington,Pac-12
+2018,1,13,Daron Payne ,NT,Alabama,SEC
+2018,1,14,Marcus Davenport ,DE,UTSA,C-USA
+2018,1,15,Kolton Miller ,OT,UCLA,Pac-12
+2018,1,16,Tremaine Edmunds ,LB,Virginia Tech,ACC
+2018,1,17,Derwin James ,S,Florida State,ACC
+2018,1,18,Jaire Alexander ,CB,Louisville,ACC
+2018,1,19,Leighton Vander Esch ,LB,Boise State,MW
+2018,1,20,Frank Ragnow ,C,Arkansas,SEC
+2018,1,21,Billy Price ,C,Ohio State,Big Ten
+2018,1,22,Rashaan Evans ,LB,Alabama,SEC
+2018,1,23,Isaiah Wynn ,OT,Georgia,SEC
+2018,1,24,D. J. Moore ,WR,Maryland,Big Ten
+2018,1,25,Hayden Hurst ,TE,South Carolina,SEC
+2018,1,26,Calvin Ridley ,WR,Alabama,SEC
+2018,1,27,Rashaad Penny ,RB,San Diego State,MW
+2018,1,28,Terrell Edmunds ,S,Virginia Tech,ACC
+2018,1,29,Taven Bryan ,DT,Florida,SEC
+2018,1,30,Mike Hughes ,CB,UCF,The American
+2018,1,31,Sony Michel ,RB,Georgia,SEC
+2018,1,32,Lamar Jackson ,QB,Louisville,ACC
+2019,1,1,Jameis Winston ,QB,Florida State,ACC
+2019,1,2,Marcus Mariota ,QB,Oregon,Pac-12
+2019,1,3,Dante Fowler ,DE,Florida,SEC
+2019,1,4,Amari Cooper ,WR,Alabama,SEC
+2019,1,5,Brandon Scherff ,OT,Iowa,Big Ten
+2019,1,6,Leonard Williams ,DE,USC,Pac-12
+2019,1,7,Kevin White ,WR,West Virginia,Big 12
+2019,1,8,Vic Beasley ,DE,Clemson,ACC
+2019,1,9,Ereck Flowers ,OT,Miami (FL),ACC
+2019,1,10,Todd Gurley ,RB,Georgia,SEC
+2019,1,11,Trae Waynes ,CB,Michigan State,Big Ten
+2019,1,12,Danny Shelton ,DT,Washington,Pac-12
+2019,1,13,Andrus Peat ,OT,Stanford,Pac-12
+2019,1,14,DeVante Parker ,WR,Louisville,ACC
+2019,1,15,Melvin Gordon ,RB,Wisconsin,Big Ten
+2019,1,16,Kevin Johnson ,CB,Wake Forest,ACC
+2019,1,17,Arik Armstead ,DE,Oregon,Pac-12
+2019,1,18,Marcus Peters ,CB,Washington,Pac-12
+2019,1,19,Cameron Erving ,C,Florida State,ACC
+2019,1,20,Nelson Agholor ,WR,USC,Pac-12
+2019,1,21,Cedric Ogbuehi ,OT,Texas A&M,SEC
+2019,1,22,Bud Dupree ,LB,Kentucky,SEC
+2019,1,23,Shane Ray ,DE,Missouri,SEC
+2019,1,24,D. J. Humphries ,OT,Florida,SEC
+2019,1,25,Shaq Thompson ,LB,Washington,Pac-12
+2019,1,26,Breshad Perriman ,WR,UCF,The American
+2019,1,27,Byron Jones ,CB,Connecticut,The American
+2019,1,28,Laken Tomlinson ,G,Duke,ACC
+2019,1,29,Phillip Dorsett ,WR,Miami (FL),ACC
+2019,1,30,Damarious Randall ,S,Arizona State,Pac-12
+2019,1,31,Stephone Anthony ,LB,Clemson,ACC
+2019,1,32,Malcom Brown ,DT,Texas,Big 12

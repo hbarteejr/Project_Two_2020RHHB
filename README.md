@@ -20,3 +20,6 @@ In terms of technologies used, this project incorporates the following:
 Finally, it is our hope through this project that one will be able to review the visualizations and see how  different conferences and colleges have had an impact on the NFL Draft in the First Round over the past 10 years.  As we enter the COVID-19 era of sports through social distancing and other adjustments, this data can be used in a virtual mode for those studying drafts, both from a historical perspective moving into a Amazon Web Services perspective, both now and in the future. 
 ________________________________________
 Contributors: Raphael Hearne and Howard Bartee, Jr. 
+
+
+file:///C:/Users/hbart/Desktop/Rice%20University%20Data%20Analytics%20Boot%20Camp%202020/6%2015%202020%20Final%20Project%20for%20Bootcamp/FinalProjectTwoIndex.html 

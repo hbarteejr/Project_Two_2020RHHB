@@ -7,7 +7,7 @@ In this project, entitled, “The Visualization of NFL Draft Picks From 2009-201
 
 From a conceptual view, we will use the knowledge gained in this course and create an interactive scatterplot that shows what pick and year a player was drafted.  It includes the player name, college and position as part of this visualization. (Insert Image of Scatterplot). Additionally, we will use a leaflet to show the positions, players, colleges and conferences so that as you move over each one, you will see how those draft picks are distributed in the 13 Conferences, Independent Schools, 13 positions and 351 players drafted from 2009 to 2019 as 32 picks in the first round of the Annual NFL Draft. 
 
-Images of Conference (American Athletic Conference.png)
+![Logo](Images of Conference/American Athletic Conference.png)
 
 In terms of technologies used, this project incorporates the following: 
 1.	HTML/CSS
